@@ -1,26 +1,11 @@
-<<<<<<< HEAD
 # Ai_Email_Asistant
-=======
----
+
 # AI Mail Support Assistant
->>>>>>> e957b29 (update readme file)
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-## 🚀 Demo
-Watch the demo video here: [YouTube Link](https://youtu.be/oLf5fvMx5QU?si=LYU2TM-7s7t2QBM8)
->>>>>>> 19541f2 (update readme file)
-
-=======
->>>>>>> 86d6567 (update readme file)
 ![Dashboard](https://img.shields.io/badge/Dashboard-React_MUI-informational) ![Backend](https://img.shields.io/badge/Backend-Node.js_Express-success) ![AI](https://img.shields.io/badge/AI-Google_Gemini-blueviolet) ![Database](https://img.shields.io/badge/Database-PostgreSQL_Prisma-ff69b4)
 ---
-## Demo
-Watch the demo video here: [YouTube Link](https://youtu.be/oLf5fvMx5QU?si=LYU2TM-7s7t2QBM8)
-## Architecture & Approach
-Documentation: [Google Document](https://docs.google.com/document/d/1QpXLOwnWJX2g2P5WIMZiwsDxTczDGGLt1Y5RN-H3Xpg/edit?usp=sharing)
+
 
 ## Features
 
