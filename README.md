@@ -206,8 +206,5 @@ The core intelligence is in `server/services/aiService.js`. It uses a carefully 
 - **User Authentication:** Add login/logout functionality to support multiple agents.
 - **Advanced Analytics:** Add more detailed charts and time-series analysis for support performance.
 
-<<<<<<< HEAD
-=======
-## License
->>>>>>> e957b29 (update readme file)
+
 
