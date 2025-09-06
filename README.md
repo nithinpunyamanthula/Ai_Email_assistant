@@ -2,13 +2,18 @@
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ## 🚀 Demo
 Watch the demo video here: [YouTube Link](https://youtu.be/oLf5fvMx5QU?si=LYU2TM-7s7t2QBM8)
 >>>>>>> 19541f2 (update readme file)
 
+=======
+>>>>>>> 86d6567 (update readme file)
 ![Dashboard](https://img.shields.io/badge/Dashboard-React_MUI-informational) ![Backend](https://img.shields.io/badge/Backend-Node.js_Express-success) ![AI](https://img.shields.io/badge/AI-Google_Gemini-blueviolet) ![Database](https://img.shields.io/badge/Database-PostgreSQL_Prisma-ff69b4)
 ---
+## 🚀 Demo
+Watch the demo video here: [YouTube Link](https://youtu.be/oLf5fvMx5QU?si=LYU2TM-7s7t2QBM8)
 
 ## ✨ Features
 
